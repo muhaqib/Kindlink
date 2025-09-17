@@ -1,0 +1,2 @@
+[27-Aug-2025 01:24:20 UTC] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/pluggable.php on line 1640
+[17-Sep-2025 02:05:11 UTC] PHP Warning:  Undefined array key "editor_post_id" in /var/www/html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
